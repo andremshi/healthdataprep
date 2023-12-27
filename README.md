@@ -8,3 +8,7 @@ Minimum requirements:
 
 Python v3.10.12
 Libraries: Pandas v1.5.3, numpy v1.23.5, and Rapids (cupy and cudf) v23.12.01
+
+Datasets area accessible on: https://doi.org/10.5281/zenodo.10435796
+
+
